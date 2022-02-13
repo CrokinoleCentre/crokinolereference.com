@@ -1,0 +1,16 @@
+2022-02-12 22:40:38.294832 script started
+2022-02-12 22:49:01.692776 import of excel files complete
+2022-02-12 22:49:02.693523 creation of dictionaries complete
+2022-02-12 22:49:48.957370 player index page created
+2022-02-12 23:20:31.079824 player pages created
+2022-02-12 23:20:31.653352 event index page created
+2022-02-12 23:20:39.084642 event sub-index pages created
+2022-02-12 23:21:55.340032 all event pages created
+2022-02-12 23:23:08.963826 ranking index page created
+2022-02-12 23:26:02.651642 individual ranking pages created
+2022-02-12 23:26:02.787805 league index page created
+2022-02-12 23:26:11.108185 record index page created
+2022-02-12 23:27:55.243535 all record pages created
+2022-02-12 23:29:02.938302 Index and guide pages created
+2022-02-12 23:29:02.944241 contribute page created
+2022-02-12 23:29:02.944453 crokinole reference script complete
